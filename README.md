@@ -21,7 +21,7 @@ Gadget Grid is a simple e-commerce product showcase built with React and Vite. T
 ## How to Run the Project
 
 1. Clone the repository
-git clone https://github.com/Caleb-Speaker/ecom-product-app
+- git clone https://github.com/Caleb-Speaker/ecom-product-app
 
 ---
 
